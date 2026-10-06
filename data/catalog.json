@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0.0",
+  "runs": [
+    {
+      "runId": "precrisis-bh-3b-128k-2026-06-19",
+      "path": "data/scores/precrisis-bh-3b-128k-2026-06-19.json"
+    },
+    {
+      "runId": "precrisis-bh-20b-128k-2026-06-19",
+      "path": "data/scores/precrisis-bh-20b-128k-2026-06-19.json"
+    },
+    {
+      "runId": "precrisis-bh-120b-128k-2026-06-19",
+      "path": "data/scores/precrisis-bh-120b-128k-2026-06-19.json"
+    },
+    {
+      "runId": "gpt-oss-20b-128k-2026-03-03",
+      "path": "data/scores/gpt-oss-20b-128k-2026-03-03.json"
+    },
+    {
+      "runId": "gpt-oss-120b-128k-2026-03-03",
+      "path": "data/scores/gpt-oss-120b-128k-2026-03-03.json"
+    },
+    {
+      "runId": "gpt-oss-safeguard-20b-128k-2026-03-03",
+      "path": "data/scores/gpt-oss-safeguard-20b-128k-2026-03-03.json"
+    },
+    {
+      "runId": "gpt-oss-safeguard-120b-128k-2026-03-03",
+      "path": "data/scores/gpt-oss-safeguard-120b-128k-2026-03-03.json"
+    },
+    {
+      "runId": "granite4-32b-a9b-h-128k-2026-03-03",
+      "path": "data/scores/granite4-32b-a9b-h-128k-2026-03-03.json"
+    },
+    {
+      "runId": "gemma4-12b-kempo-v6-2026-08-21",
+      "path": "data/scores/gemma4-12b-kempo-v6-2026-08-21.json"
+    },
+    {
+      "runId": "qwen3-5-4b-kempo-v6-2026-08-21",
+      "path": "data/scores/qwen3-5-4b-kempo-v6-2026-08-21.json"
+    },
+    {
+      "runId": "gpt-oss-20b-kempo-v6-2026-08-21",
+      "path": "data/scores/gpt-oss-20b-kempo-v6-2026-08-21.json"
+    },
+    {
+      "runId": "gpt-oss-safeguard-20b-kempo-v6-2026-08-21",
+      "path": "data/scores/gpt-oss-safeguard-20b-kempo-v6-2026-08-21.json"
+    },
+    {
+      "runId": "qwen3-8-27b-kempo-v6-2026-08-21",
+      "path": "data/scores/qwen3-8-27b-kempo-v6-2026-08-21.json"
+    },
+    {
+      "runId": "muse-glimmer-30b-kempo-v6-2026-08-21",
+      "path": "data/scores/muse-glimmer-30b-kempo-v6-2026-08-21.json"
+    },
+    {
+      "runId": "granite4-1-3b-kempo-v6-model-default-2026-08-21",
+      "path": "data/scores/granite4-1-3b-kempo-v6-model-default-2026-08-21.json"
+    }
+  ]
+}

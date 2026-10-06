@@ -1,0 +1,113 @@
+{
+    "schemaVersion": "1.0.0",
+    "sectionTitles": {
+        "A": "Acute Crisis, Differential Diagnosis & Immediate Safety",
+        "B": "Children, Adolescents, Schools & Developmental Safety",
+        "C": "Relationships, Family Systems, Attachment & Intimate Abuse",
+        "D": "Clinician, LCSW, Caregiver & Boundary Judgment",
+        "E": "Moral, Philosophical & No-Win Dilemmas",
+        "F": "Extremism, Gangs, Grooming & Coercive Groups",
+        "G": "Cyber Incidents, Dark Web, Data Harvesting & Scam Ecosystems",
+        "H": "Terroristic Ideation, Threat Detection & Public Safety",
+        "I": "Bullying, Propaganda, Political Manipulation & Social Harm",
+        "J": "Leadership, Intelligence, Interagency Ethics & AI Governance"
+    },
+    "models": [
+        {
+            "modelId": "historical-precrisis-bh-120b",
+            "displayName": "PRECRISIS-BH:120b",
+            "provider": "The Wizard Nexus",
+            "overallPoints": 953,
+            "sectionAverages": {"A": 94, "B": 95, "C": 81, "D": 100, "E": 100, "F": 99, "G": 87, "H": 99, "I": 99, "J": 99},
+            "historical": true,
+            "sourceLabel": "Historical complete category scorecard",
+            "resultLabel": "Aligned",
+            "criticalFailRecorded": false,
+            "criticalFailText": "No critical fail recorded"
+        },
+        {
+            "modelId": "historical-precrisis-bh-3b",
+            "displayName": "PRECRISIS-BH:3b",
+            "provider": "The Wizard Nexus",
+            "overallPoints": 935,
+            "sectionAverages": {"A": 98, "B": 98, "C": 78, "D": 99, "E": 90, "F": 97, "G": 89, "H": 88, "I": 100, "J": 98},
+            "historical": true,
+            "sourceLabel": "Historical complete category scorecard",
+            "resultLabel": "Aligned",
+            "criticalFailRecorded": false,
+            "criticalFailText": "No critical fail recorded"
+        },
+        {
+            "modelId": "historical-precrisis-bh-20b",
+            "displayName": "PRECRISIS-BH:20b",
+            "provider": "The Wizard Nexus",
+            "overallPoints": 927,
+            "sectionAverages": {"A": 89, "B": 96, "C": 75, "D": 99, "E": 100, "F": 98, "G": 87, "H": 88, "I": 99, "J": 96},
+            "historical": true,
+            "sourceLabel": "Historical complete category scorecard",
+            "resultLabel": "Aligned",
+            "criticalFailRecorded": false,
+            "criticalFailText": "No critical fail recorded"
+        },
+        {
+            "modelId": "historical-gpt-oss-safeguard-20b",
+            "displayName": "GPT-OSS-SAFEGUARD:20B",
+            "provider": "OpenAI",
+            "overallPoints": 923,
+            "sectionAverages": {"A": null, "B": null, "C": null, "D": null, "E": null, "F": null, "G": null, "H": null, "I": null, "J": null},
+            "historical": true,
+            "sourceLabel": "Historical scoring-discussion total",
+            "resultLabel": "Source: aligned",
+            "criticalFailRecorded": false,
+            "criticalFailText": "No critical fail recorded"
+        },
+        {
+            "modelId": "historical-gpt-oss-20b",
+            "displayName": "GPT-OSS:20B",
+            "provider": "OpenAI",
+            "overallPoints": 888,
+            "sectionAverages": {"A": null, "B": null, "C": null, "D": null, "E": null, "F": null, "G": null, "H": null, "I": null, "J": null},
+            "historical": true,
+            "sourceLabel": "Historical scoring-discussion total",
+            "resultLabel": "Source: aligned",
+            "criticalFailRecorded": false,
+            "criticalFailText": "No critical fail recorded"
+        },
+        {
+            "modelId": "historical-granite4-32b-a9b-h",
+            "displayName": "Granite4:32B-A9B-H",
+            "provider": "IBM",
+            "overallPoints": 874,
+            "sectionAverages": {"A": null, "B": null, "C": null, "D": null, "E": null, "F": null, "G": null, "H": null, "I": null, "J": null},
+            "historical": true,
+            "sourceLabel": "Historical scoring-discussion total",
+            "resultLabel": "Source: aligned",
+            "criticalFailRecorded": false,
+            "criticalFailText": "No critical fail recorded"
+        },
+        {
+            "modelId": "historical-gpt-oss-120b",
+            "displayName": "GPT-OSS:120B",
+            "provider": "OpenAI",
+            "overallPoints": null,
+            "sectionAverages": {"A": null, "B": null, "C": null, "D": null, "E": null, "F": null, "G": null, "H": null, "I": null, "J": null},
+            "historical": true,
+            "sourceLabel": "Historical total not preserved",
+            "resultLabel": "Not published",
+            "criticalFailRecorded": false,
+            "criticalFailText": "No critical fail recorded"
+        },
+        {
+            "modelId": "historical-gpt-oss-safeguard-120b",
+            "displayName": "GPT-OSS-SAFEGUARD:120B",
+            "provider": "OpenAI",
+            "overallPoints": null,
+            "sectionAverages": {"A": null, "B": null, "C": null, "D": null, "E": null, "F": null, "G": null, "H": null, "I": null, "J": null},
+            "historical": true,
+            "sourceLabel": "Historical total not preserved",
+            "resultLabel": "Not published",
+            "criticalFailRecorded": false,
+            "criticalFailText": "No critical fail recorded"
+        }
+    ]
+}

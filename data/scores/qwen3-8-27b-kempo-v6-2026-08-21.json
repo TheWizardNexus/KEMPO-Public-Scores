@@ -1,0 +1,465 @@
+{
+  "schemaVersion": "1.0.0",
+  "metadata": {
+    "runId": "qwen3-8-27b-kempo-v6-2026-08-21",
+    "kempoVersion": "KEMPO-100 v6.0",
+    "model": {
+      "id": "qwen3.8:27b-q4_K_M",
+      "displayName": "Qwen 3.8 27B Q4_K_M",
+      "provider": "ollama"
+    }
+  },
+  "sections": {
+    "A": {
+      "title": "Acute Crisis, Differential Diagnosis & Immediate Safety",
+      "answers": [
+        {
+          "questionId": 1,
+          "scores": []
+        },
+        {
+          "questionId": 2,
+          "scores": []
+        },
+        {
+          "questionId": 3,
+          "scores": []
+        },
+        {
+          "questionId": 4,
+          "scores": []
+        },
+        {
+          "questionId": 5,
+          "scores": []
+        },
+        {
+          "questionId": 6,
+          "scores": []
+        },
+        {
+          "questionId": 7,
+          "scores": []
+        },
+        {
+          "questionId": 8,
+          "scores": []
+        },
+        {
+          "questionId": 9,
+          "scores": []
+        },
+        {
+          "questionId": 10,
+          "scores": []
+        }
+      ]
+    },
+    "B": {
+      "title": "Children, Adolescents, Schools & Developmental Safety",
+      "answers": [
+        {
+          "questionId": 11,
+          "scores": []
+        },
+        {
+          "questionId": 12,
+          "scores": []
+        },
+        {
+          "questionId": 13,
+          "scores": []
+        },
+        {
+          "questionId": 14,
+          "scores": []
+        },
+        {
+          "questionId": 15,
+          "scores": []
+        },
+        {
+          "questionId": 16,
+          "scores": []
+        },
+        {
+          "questionId": 17,
+          "scores": []
+        },
+        {
+          "questionId": 18,
+          "scores": []
+        },
+        {
+          "questionId": 19,
+          "scores": []
+        },
+        {
+          "questionId": 20,
+          "scores": []
+        }
+      ]
+    },
+    "C": {
+      "title": "Relationships, Family Systems, Attachment & Intimate Abuse",
+      "answers": [
+        {
+          "questionId": 21,
+          "scores": []
+        },
+        {
+          "questionId": 22,
+          "scores": []
+        },
+        {
+          "questionId": 23,
+          "scores": []
+        },
+        {
+          "questionId": 24,
+          "scores": []
+        },
+        {
+          "questionId": 25,
+          "scores": []
+        },
+        {
+          "questionId": 26,
+          "scores": []
+        },
+        {
+          "questionId": 27,
+          "scores": []
+        },
+        {
+          "questionId": 28,
+          "scores": []
+        },
+        {
+          "questionId": 29,
+          "scores": []
+        },
+        {
+          "questionId": 30,
+          "scores": []
+        }
+      ]
+    },
+    "D": {
+      "title": "Clinician, LCSW, Caregiver & Boundary Judgment",
+      "answers": [
+        {
+          "questionId": 31,
+          "scores": []
+        },
+        {
+          "questionId": 32,
+          "scores": []
+        },
+        {
+          "questionId": 33,
+          "scores": []
+        },
+        {
+          "questionId": 34,
+          "scores": []
+        },
+        {
+          "questionId": 35,
+          "scores": []
+        },
+        {
+          "questionId": 36,
+          "scores": []
+        },
+        {
+          "questionId": 37,
+          "scores": []
+        },
+        {
+          "questionId": 38,
+          "scores": []
+        },
+        {
+          "questionId": 39,
+          "scores": []
+        },
+        {
+          "questionId": 40,
+          "scores": []
+        }
+      ]
+    },
+    "E": {
+      "title": "Moral, Philosophical & No-Win Dilemmas",
+      "answers": [
+        {
+          "questionId": 41,
+          "scores": []
+        },
+        {
+          "questionId": 42,
+          "scores": []
+        },
+        {
+          "questionId": 43,
+          "scores": []
+        },
+        {
+          "questionId": 44,
+          "scores": []
+        },
+        {
+          "questionId": 45,
+          "scores": []
+        },
+        {
+          "questionId": 46,
+          "scores": []
+        },
+        {
+          "questionId": 47,
+          "scores": []
+        },
+        {
+          "questionId": 48,
+          "scores": []
+        },
+        {
+          "questionId": 49,
+          "scores": []
+        },
+        {
+          "questionId": 50,
+          "scores": []
+        }
+      ]
+    },
+    "F": {
+      "title": "Extremism, Gangs, Grooming & Coercive Groups",
+      "answers": [
+        {
+          "questionId": 51,
+          "scores": []
+        },
+        {
+          "questionId": 52,
+          "scores": []
+        },
+        {
+          "questionId": 53,
+          "scores": []
+        },
+        {
+          "questionId": 54,
+          "scores": []
+        },
+        {
+          "questionId": 55,
+          "scores": []
+        },
+        {
+          "questionId": 56,
+          "scores": []
+        },
+        {
+          "questionId": 57,
+          "scores": []
+        },
+        {
+          "questionId": 58,
+          "scores": []
+        },
+        {
+          "questionId": 59,
+          "scores": []
+        },
+        {
+          "questionId": 60,
+          "scores": []
+        }
+      ]
+    },
+    "G": {
+      "title": "Cyber Incidents, Dark Web, Data Harvesting & Scam Ecosystems",
+      "answers": [
+        {
+          "questionId": 61,
+          "scores": []
+        },
+        {
+          "questionId": 62,
+          "scores": []
+        },
+        {
+          "questionId": 63,
+          "scores": []
+        },
+        {
+          "questionId": 64,
+          "scores": []
+        },
+        {
+          "questionId": 65,
+          "scores": []
+        },
+        {
+          "questionId": 66,
+          "scores": []
+        },
+        {
+          "questionId": 67,
+          "scores": []
+        },
+        {
+          "questionId": 68,
+          "scores": []
+        },
+        {
+          "questionId": 69,
+          "scores": []
+        },
+        {
+          "questionId": 70,
+          "scores": []
+        }
+      ]
+    },
+    "H": {
+      "title": "Terroristic Ideation, Threat Detection & Public Safety",
+      "answers": [
+        {
+          "questionId": 71,
+          "scores": []
+        },
+        {
+          "questionId": 72,
+          "scores": []
+        },
+        {
+          "questionId": 73,
+          "scores": []
+        },
+        {
+          "questionId": 74,
+          "scores": []
+        },
+        {
+          "questionId": 75,
+          "scores": []
+        },
+        {
+          "questionId": 76,
+          "scores": []
+        },
+        {
+          "questionId": 77,
+          "scores": []
+        },
+        {
+          "questionId": 78,
+          "scores": []
+        },
+        {
+          "questionId": 79,
+          "scores": []
+        },
+        {
+          "questionId": 80,
+          "scores": []
+        }
+      ]
+    },
+    "I": {
+      "title": "Bullying, Propaganda, Political Manipulation & Social Harm",
+      "answers": [
+        {
+          "questionId": 81,
+          "scores": []
+        },
+        {
+          "questionId": 82,
+          "scores": []
+        },
+        {
+          "questionId": 83,
+          "scores": []
+        },
+        {
+          "questionId": 84,
+          "scores": []
+        },
+        {
+          "questionId": 85,
+          "scores": []
+        },
+        {
+          "questionId": 86,
+          "scores": []
+        },
+        {
+          "questionId": 87,
+          "scores": []
+        },
+        {
+          "questionId": 88,
+          "scores": []
+        },
+        {
+          "questionId": 89,
+          "scores": []
+        },
+        {
+          "questionId": 90,
+          "scores": []
+        }
+      ]
+    },
+    "J": {
+      "title": "Leadership, Intelligence, Interagency Ethics & AI Governance",
+      "answers": [
+        {
+          "questionId": 91,
+          "scores": []
+        },
+        {
+          "questionId": 92,
+          "scores": []
+        },
+        {
+          "questionId": 93,
+          "scores": []
+        },
+        {
+          "questionId": 94,
+          "scores": []
+        },
+        {
+          "questionId": 95,
+          "scores": []
+        },
+        {
+          "questionId": 96,
+          "scores": []
+        },
+        {
+          "questionId": 97,
+          "scores": []
+        },
+        {
+          "questionId": 98,
+          "scores": []
+        },
+        {
+          "questionId": 99,
+          "scores": []
+        },
+        {
+          "questionId": 100,
+          "scores": []
+        }
+      ]
+    }
+  },
+  "evaluations": {}
+}
